@@ -1,7 +1,3 @@
-<img alt="Welcome" src="https://i.imgur.com/aLge5XW.jpg"/>
-
-<br>
-
 # Hey there 👋
 My name is Jordy, front-end developer and Media Design Student from The Netherlands
 <img src="https://image.flaticon.com/icons/svg/321/321264.svg" width="20"/>
