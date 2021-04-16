@@ -2,8 +2,6 @@
 My name is Jordy, front-end developer and Media Design Student from The Netherlands
 <img src="https://image.flaticon.com/icons/svg/321/321264.svg" width="20"/>
 
-<br>
-
 ## Things I code with
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -18,18 +16,12 @@ My name is Jordy, front-end developer and Media Design Student from The Netherla
 </p>
 
 
-<br>
-
 ## My website
-
 Be sure to check out my work at [https://jordyarntz.com](https://jordyarntz.com)
 
-
-<br>
 
 ## Github stats
 <div float="left">
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jarntz"/>
 <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarntz&layout=compact&hide=html" />
-</div
-  
+</div>
