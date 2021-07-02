@@ -22,6 +22,6 @@ Be sure to check out my work at [https://jordyarntz.com](https://jordyarntz.com)
 
 ## Github stats
 <div float="left">
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jarntz"/>
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarntz&layout=compact&hide=html" />
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jarntz&include_all_commits=true&count_private=true"/>
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarntz&layout=compact" />
 </div>
