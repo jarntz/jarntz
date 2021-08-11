@@ -6,8 +6,6 @@ I'm a front-end developer and Media Design Student from The Netherlands 🇳🇱
 
 [![Portfolio](https://jordyarntz.com/cdn/readme-portfolio.jpg)](https://jordyarntz.com)
 
-<br>
-
 ## ⚡ GitHub Stats
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jarntz&theme=dark&hide_border=true)  
