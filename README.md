@@ -4,7 +4,7 @@ I'm a front-end developer and Media Design Student from The Netherlands 🇳🇱
 
 <br>
 
-[![Portfolio](https://jordyarntz.com/cdn/readme-portfolio.jpg)](https://jordyarntz.com)
+[![Portfolio](https://cdn.jordyarntz.com/readme-portfolio.jpg)](https://jordyarntz.com)
 
 ## ⚡ GitHub Stats
 
