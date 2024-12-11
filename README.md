@@ -1,6 +1,6 @@
 # Hey there 👋 — my name is Jordy
 
-I'm a front-end developer and Media Design Student from The Netherlands 🇳🇱
+I'm a creative developer from The Netherlands 🇳🇱
 
 <br>
 
